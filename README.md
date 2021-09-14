@@ -3,7 +3,7 @@ Weather telegram bot
 
 Создаете канал добавляете туда бота и при помощи ссылки
 
-https://api.telegram.org/bot(you bot apikey)/getUpdates
+https://api.telegram.org/bot(you_bot_apikey)/getUpdates
 
 он отдаст json с параметрами в нем требуется строка
 
