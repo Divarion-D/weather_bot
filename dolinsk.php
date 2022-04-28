@@ -6,18 +6,18 @@ include("jpgraph/jpgraph_line.php");
 //************************************************************
 //seting openweathermap
 //api key
-$w_key = 'er8g4e6sg4s684s68g4fs86dgfs68';
+$w_key = 'c54a5ff290d0bf2f6c23ee0a7456a86a';
 //Кординаты города
-$lon = '87.4421';
-$lat = '150.9849';
+$lon = '32.7645';
+$lat = '48.1104';
 //Название города
-$street_name = 'street';
+$street_name = 'dolinska';
 //************************************************************
 //telegram bot seting
 //bot api token
-$apiToken = "6186464683:alaskjdkjBUBLuBLBjlhBjhbgcjfCa";
+$apiToken = "1915782155:AAEOEAgi0YjoakTaYZ9G9iv_PsuvdxnoU3o";
 //id канала
-$gropid = '-9781989849494';
+$gropid = '-1001755925600';
 //************************************************************
 
 $filename_data = $street_name.'_weather_data.txt';
